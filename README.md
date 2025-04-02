@@ -5,4 +5,7 @@
 # testGIT2
 # testGIT2
 # testGIT5
-# testGIT6
+# test
+# testGIT10
+# testGIT10
+# testGIT11
